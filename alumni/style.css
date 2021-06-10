@@ -1,0 +1,382 @@
+.navbar-nav li:hover {
+    border: 2px solid #0084ea;
+    border-radius: 10px;
+}
+
+.display-4 {
+    text-align: center;
+}
+
+.lead {
+    text-align: center;
+}
+
+.jumbotron span {
+    font-family: monospace;
+    color: #0084ea;
+}
+
+.jumbotron p {
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.quote-school {
+    text-align: center;
+    font-size: 50px;
+}
+
+.btn-outline-primary:hover {
+    transform: scale(1.3);
+    ;
+}
+
+.join {
+    text-align: center;
+}
+
+.d-block {
+    width: 1902px;
+    height: 671px;
+}
+
+nav span {
+    font-family: 'Damion', cursive;
+    font:20px;
+}
+
+.navbar-nav li {
+    padding: 15px;
+}
+
+.jumbotron {}
+
+.success-heading {
+    text-align: center;
+    font-family: 'Damion', cursive;
+}
+
+.dividerc {
+    font-size: 30px;
+    width: 200px;
+    height: 5px;
+    background-color: #0084ea;
+    text-align: center;
+    border-radius: 2px;
+}
+
+.fa-graduation-cap {
+    position: relative;
+    font-size: 200px;
+    text-align: center;
+    float: center;
+}
+
+.line-students {
+    font-size: 30px;
+    text-align: center;
+    font-family: monospace;
+    position: relative;
+    right: 30px;
+}
+
+.fa-hard-hat {
+    position: relative;
+    margin-left: 100px;
+    font-size: 190px;
+}
+
+.events {
+    padding-top: 10px;
+}
+
+.container {}
+
+
+/**.col:hover {
+    text-color: #0084ea;
+    transform: scale(1.5);
+    color: black;
+}**/
+
+.col {
+    color: black;
+}
+
+.fa-book-reader {
+    position: relative;
+    margin-left: 110px;
+    font-size: 190px;
+    color: gray;
+}
+
+.fa-user-md {
+    position: relative;
+    margin-left: 130px;
+    font-size: 190px;
+}
+
+.first {
+    color: gray;
+    float: center;
+}
+
+.second {
+    color: gray;
+}
+
+.thirdc {
+    color: gray;
+}
+
+.fourth {
+    color: gray;
+}
+
+.display-4 {
+    font-family: 'Damion', cursive;
+}
+
+
+/* Slideshow container */
+
+.slideshow-container {
+    position: relative;
+}
+
+
+/* Slides */
+
+.mySlides {
+    display: none;
+    padding: 80px;
+    text-align: center;
+    color: white;
+}
+
+
+/* Next & previous buttons */
+
+.prev,
+.next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -30px;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+}
+
+
+/* Position the "next button" to the right */
+
+.next {
+    position: absolute;
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+
+/* On hover, add a black background color with a little bit see-through */
+
+.prev:hover,
+.next:hover {
+    color: white;
+}
+
+
+/* The dot/bullet/indicator container */
+
+.dot-container {
+    text-align: center;
+    padding: 20px;
+}
+
+
+/* The dots/bullets/indicators */
+
+.dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: #717171;
+    transition: background-color 0.6s ease;
+}
+
+
+/* Add a background color to the active dot/circle */
+
+.active,
+.dot:hover {
+    background-color: #717171;
+}
+
+
+/* Add an italic font style to all quotes */
+
+q {
+    font-style: italic;
+}
+
+
+/* Add a blue color to the author */
+
+.author {
+    color: cornflowerblue;
+}
+
+.students {
+    box-shadow: 5px 10px 10px #888888
+}
+
+.events {
+    margin-top: 30px;
+}
+
+.stories {
+    background: url('header.jpg');
+    background-size: 1500px 600px;
+}
+
+.mySlides p {
+    color: white;
+}
+
+.mentoring {
+    text-color: white;
+    background-image: url('mentor.jpg');
+    background-size: 1500px, 500px;
+}
+
+.mentoring {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.card-owl {
+    color: white;
+    font-family: 'Damion', cursive;
+}
+
+.display-64 {
+    border: 3px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+}
+
+.container .cursive {
+    font-family: monospace;
+    font-family: 50px;
+}
+
+.card {
+    margin-left: 30px;
+}
+
+.backgroundmp {
+    background: url('backgroundalumni.jpg');
+    color: white;
+}
+
+.lead {
+    font-size: 40px;
+}
+
+.display-64 q {
+    font-family: monospace;
+    color: blueviolet;
+}
+.col-sm{
+    background:white;
+}
+.tab-content{
+    background:white;
+}
+.show{
+    background-color: white;
+}
+#regForm {
+    background-color: #ffffff;
+    margin: 100px auto;
+    font-family: Raleway;
+    padding: 100px;
+    width: 70%;
+    min-width: 300px;
+  }
+  
+  h1 {
+    text-align: center;  
+  }
+  
+  input {
+    padding: 10px;
+    font-size: 17px;
+    font-family: Raleway;
+    border: 1px solid #aaaaaa;
+  }
+  
+  /* Mark input boxes that gets an error on validation: */
+  input.invalid {
+    background-color: #ffdddd;
+  }
+  
+  /* Hide all steps by default: */
+  .tab {
+    display: none;
+  }
+  
+  button {
+    background-color: #0084ea;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 17px;
+    font-family: Raleway;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    opacity: 0.8;
+  }
+  
+  #prevBtn {
+    background-color: #bbbbbb;
+  }
+  
+  /* Make circles that indicate the steps of the form: */
+  .step {
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbbbbb;
+    border: none;  
+    border-radius: 50%;
+    display: inline-block;
+    opacity: 0.5;
+  }
+  
+  .step.active {
+    opacity: 1;
+  }
+  
+  /* Mark the steps that are finished and valid: */
+  .step.finish {
+    background-color: #0084ea;
+  }
+  .form-signup{
+      width: 700px;
+      height: 500px;
+  }
+  .forgot-pass{
+      float:right;
+  }
+  
